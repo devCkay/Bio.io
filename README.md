@@ -7,7 +7,7 @@
 
 - Currently, I'm learning Javascript : **Web development** 👩🏻‍💻 . 
 
-- Worked on projects that provides a scalable, performant, consistent and rich experience to users. 
+- Working on projects that provides a scalable, performant, consistent and rich experience to users. 
 
 - Primarily deal with technologies like ⚡ **JAVASCRIPT, HTML, CSS**.
 
