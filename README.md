@@ -5,16 +5,16 @@
 
 - <b> I'm Hope Akakpo (he/him),</b> I'm an administrative assistant and Community Moderator for Blockchain Based Start-Ups
 
-- Currently, I'm learning Javascript : **Web development, Back-End Development** 👩🏻‍💻 . 
+- Currently, I'm learning Javascript : **Web development** 👩🏻‍💻 . 
 
 - Worked on projects that provides a scalable, performant, consistent and rich experience to users. 
 
-- Primarily deal with technologies like ⚡ **JAVASCRIPT,PHP**.
+- Primarily deal with technologies like ⚡ **JAVASCRIPT, HTML, CSS**.
 
 - Open source enthusiast. 
 
 - Looking forward to  Contributing to multiple <b>open-source</b> projects.
-- 
+ 
 - Continuously learning and engaging with the tech community.
 
 - I’m looking to collaborate with Fullstack Web Developers.
