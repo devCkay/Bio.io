@@ -23,16 +23,12 @@
 
 <!-- My Skills -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,canva,git,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github&perline=8)](https://skillicons.dev)
 
 <!-- Socials stats -->
 
-<a href="https://twitter.com/rutamstwt"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
+<a href="https://twitter.com/Ckayetl"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
   
-<!-- Github Stats -->
-![](https://raw.githubusercontent.com/RutamBhagat/github_stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/RutamBhagat/github_stats/master/generated/languages.svg#gh-dark-mode-only)
 
-<!-- Github Stats -->
 
-[![Hope's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hopeakakpo&theme=react
+
